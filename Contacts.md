@@ -1,6 +1,8 @@
 # Contacts
 
 - Author: Artem Dainov
-- E-mail: support@gianna-app.com
-- GitHub: [GChecked-plugin](https://github.com/gianna-app/gnotification-plugin)
-- Pages:  [LinkedIn](https://linkedin.com/in/artem-dainov), [FaceBook](https://facebook.com/artem.dainov), [Telegram](https://t.me/@gianna-app)
+- E-mail: artem.tschebotarov@gmail.com support@gianna-app.com
+- Github: [GChecked plugin](https://github.com/gianna-app/gchecked-plugin)
+- LinkedIn: [Artem Chebotarov](https://linkedin.com/in/artem-dainov)
+- Telegram: [@gianna_app](https://t.me/gianna_app)
+- FaceBook: [artem.dainov](https://facebook.com/artem.dainov)
